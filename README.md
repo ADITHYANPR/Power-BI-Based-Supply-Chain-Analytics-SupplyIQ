@@ -299,7 +299,7 @@ Open the Dataset folder and connect the CSV files.
 
 # 👨‍💻 Author
 
-## Adithyan P R
+## Mohammed Yusuf Lahori
 
 Aspiring Data Analyst | Power BI Developer
 
@@ -307,7 +307,7 @@ Aspiring Data Analyst | Power BI Developer
 
 - LinkedIn: www.linkedin.com/in/mohammed-yusuf-lahori-0aa115420
 
-- GitHub: https://github.com/ADITHYANPR
+- GitHub: https://github.com/MohammedYusufL
 
 ---
 
