@@ -85,7 +85,8 @@ Features:
 - Overstock Detection
 - Low Stock Analysis
 
-![Inventory Analytics](inventory_analytics.png)
+![Inventory Analytics](<img width="1674" height="940" alt="inventory_analytics" src="https://github.com/user-attachments/assets/9fe01559-ff84-4ad9-8490-35e8df1c0e89" />
+)
 
 ---
 
@@ -102,7 +103,8 @@ Includes:
 - Transport Mode
 - On-Time Delivery
 
-![Logistics Analytics](logistics_analytics.png)
+![Logistics Analytics](<img width="1680" height="936" alt="logistics_analytics" src="https://github.com/user-attachments/assets/a1678b7c-6e70-44eb-9e56-e12da8f0f1d0" />
+)
 
 ---
 
@@ -118,7 +120,8 @@ Includes:
 - Delivery Performance
 - Supplier Comparison
 
-![Supplier Performance](supplier_performance.png)
+![Supplier Performance](<img width="1681" height="936" alt="supplier_performance" src="https://github.com/user-attachments/assets/0d8e4d26-92f4-42db-ad64-30fb72015df9" />
+)
 
 ---
 
