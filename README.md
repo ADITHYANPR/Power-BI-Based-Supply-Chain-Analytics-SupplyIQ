@@ -70,7 +70,8 @@ Business KPIs including:
 - Damage Rate
 - Return Rate
 
-![Executive Dashboard](executive_dashboard.png)
+![Executive Dashboard](<img width="1681" height="936" alt="executive_dashboard" src="https://github.com/user-attachments/assets/c422be71-eec9-48c0-838b-08f78c58eb84" />
+)
 
 ---
 
@@ -138,7 +139,8 @@ Python-powered product clustering based on
 
 Business recommendations generated from analytical insights.
 
-![Executive Recommendations](executive_recommendations.png)
+![Executive Recommendations](<img width="1683" height="934" alt="executive_recommendations" src="https://github.com/user-attachments/assets/33c23346-983f-4b7d-9c0e-d802a39cdf79" />
+)
 
 
 ---
